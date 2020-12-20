@@ -1,2 +1,0 @@
-DROP DATABASE database1;
-CREATE DATABASE database1;
